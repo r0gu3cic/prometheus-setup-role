@@ -1,0 +1,4 @@
+---
+- name: Setup Prometheus on a server
+  import_tasks: prometheus_setup.yml
+  when: ansible_facts['distribution'] | lower == 'ubuntu'
