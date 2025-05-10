@@ -1,4 +1,4 @@
-# NODE-SETUP-ROLE
+# PROMETHEUS-SETUP-ROLE
 
 =========
 
